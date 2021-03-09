@@ -1,1 +1,2 @@
-Linear and Logistic Regressions, notebooks are with R 
+# DataAnalytics
+my exploratory codes
