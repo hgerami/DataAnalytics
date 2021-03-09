@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Running Total of TMDb Movies by Year</title>
+
+
+	</head>
+	<body>
+
+        
+    <script src="lib/d3/d3.min.js"></script>
+    <script src="lib/d3-dsv/d3-dsv.min.js"></script>
+    <script src="lib/d3-fetch/d3-fetch.min.js"></script>    
+        
+        
+        <script >
+        
+
+			// parameters for web page
+			var width = 960;
+			var height = 500;
+			var bar_padding = 5;
+			var top_padding = 50;
+			var down_padding = 50;
+			var left_padding = 80;
+			var right_padding = 50;
+
+			// set up SVG
+			var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
+
+
+			// HG
+			//var g=svg.append("g")
+			//var x_axis=svg.append("g")
+			//var y_axis=svg.append("g")
+
+			
+
+			// load data
+			var q3_data = [];
+			d3.csv("q3.csv", function (data) {
+				q3_data.push(data);
+			}).then(function (d) {
+                console.log(q3_data);
+                
+            //d3.csv('q3.csv'). then(data=>{
+            //    q3_data.forEach(d=> {
+            //        d.year = d.year.toString()
+            //        d.running_total= +d.running_total
+            //    console.log(data)
+            //    })
+				// scale x axis
+				var min_year = q3_data[0].year;
+				var max_year = q3_data[q3_data.length - 1].year;
+				var delta_years= max_year-min_year
+
+				var x_scale = d3.scaleTime()
+					.domain([new Date(min_year, 0, 1), new Date(max_year, 0, 1)])
+				 	.range([left_padding, width - right_padding]);
+
+				var x_axis = d3.axisBottom(x_scale)
+					.ticks(q3_data.length / (delta_years/10));
+
+				// scale y axis
+				var max_running_total = q3_data[q3_data.length - 1].running_total;
+
+				var y_scale = d3.scaleLinear()
+					.domain([0, max_running_total])
+					.range([height - down_padding, top_padding]);
+
+				var y_axis = d3.axisLeft(y_scale)
+					.ticks(q3_data.length / 20);
+
+
+
+				svg.selectAll("rect")
+					.data(q3_data)
+					.enter()
+					.append("rect")
+					.attr("x", function (d) {
+						// x location
+						return x_scale(new Date(d.year));
+					})
+					.attr("y", function (d) {
+						// y location
+						return y_scale(d.running_total);
+					})
+					// width for bar
+					.attr("width", width / q3_data.length - bar_padding)
+					// height for bar
+					.attr("height", function (d) {
+						return height - down_padding -y_scale(d.running_total);
+					})
+					.attr("fill", function(d) {
+						// color
+    					return "b(" + d.running_total / 50  + ", 60, 60)";
+					});
+
+
+				// create x axis
+				svg.append("g")
+					.attr("id", "x_axis")
+					.attr("class", "axis")
+					.attr("transform", "translate(0," + (height - down_padding) + ")")
+                    .call(x_axis)
+                    //.text("Years");
+
+				// create y axis
+				svg.append("g")
+					.attr("id", "y_axis")
+					.attr("class", "axis")
+					.attr("transform", "translate(" + left_padding + ",0)")
+					.call(y_axis);
+				
+
+                
+				svg.append("text")
+					.attr("id", "y_axis_label")
+                    .attr("class", "y label")
+                    .attr("text-anchor", "end")
+                    .attr("x", -height/3)
+                    .attr("y", 6)
+                    .attr("dy", "0.75em")
+                    .attr("transform", "rotate(-90)")
+                    .style("font-size", "25px")
+                    .text("Running Total");
+                
+                
+				svg.append("text")
+					.attr("id", "x_axis_label")
+                    .attr("class", "x label")
+                    .attr("text-anchor", "end")
+                    .attr("x", width/2)
+                    .attr("y", height - 6)
+                    .style("font-size", "25px")
+                    .text("year");
+				
+				svg.append("text")
+					.attr("id", "title")
+					.attr("x", (width / 2))
+					.attr("y", top_padding / 2 * 2)
+					.attr("text-anchor", "middle")
+					.style("font-size", "35px")
+                    .text("Running Total of TMDb Movies by Year");
+                // GT username
+				svg.append("text")
+					.attr("id", "credit")
+					.attr("x", width - right_padding * 1.6)
+					.attr("y", height-6)
+					.attr("text-anchor", "middle")
+					.style("font-size", "12px")
+					.text("hgerami3");
+                    
+                });
+		</script>
+	</body>
+</html>
