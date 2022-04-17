@@ -6,4 +6,4 @@
   R, JavaScript/d3, Linear Algebra and Statistics to do well for the whole program. I managed to complete the whole 
   program, 10 courses & one practicum, in two years.  </p>
   
-  <p> Here I elaborate in couple of Data Sciense projects that I contributed to, a few from the university program, and the rest from work, and my personal intrests:</p> 
+  <p> Here I elaborate in couple of Data Sciense projects that I contributed to, a few from the university program, and the rest from work or my personal intrests.</p> 
