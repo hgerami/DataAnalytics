@@ -1,5 +1,5 @@
 # DataAnalytics
-<h1> Pivoting to Data Science </h1>
+<h2> Pivoting to Data Science: </h2>
   <p>From time to time I used Data Analytical methods through my routine work as a Geoscientist, 
   and I decided to step in this realm. I enrolled myself in my 2nd master 
   program, Data Analytics degree from Georgia Tech, in January 2020. I forced myself to learn Python, 
