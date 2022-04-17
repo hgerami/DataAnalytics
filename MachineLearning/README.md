@@ -1,6 +1,6 @@
 <h2>My journey in Data Science, Machine Learning projects:<h2>
   <ul>
-    <li> <a href="/KMean Method/README.md">Examples from unsupervised methods: </a></li>
+    <li> <a href="KMean Method/README.md">Examples from unsupervised methods: </a></li>
     <ul>
       <li>K-Mean Clustering  </li>
       <li>Gaussian Mixture Model Clustering</li>
