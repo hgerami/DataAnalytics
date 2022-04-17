@@ -8,5 +8,5 @@
 <p>The goal was to use an algorithm to guide a user on how to start dividing the data into geologically meaningful groups. We had to use one or more algorithms to suggest partitions/clusters for the seismic crossplot data provided.</p>
 
 <p> I used (3) unsupervised clustering methods on the provided dataset, K-
-Means, GMM and AC, and compared the results: <br><a href="Clustering Challenge for Sound QI.pdf"> Sound QI - Clustering Challange</a>
-</p>
+Means, GMM and AC, and compared the results:</p> <div></div><a href="Clustering Challenge for Sound QI.pdf"> Sound QI - Clustering Challange</a>
+
