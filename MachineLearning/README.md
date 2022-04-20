@@ -4,7 +4,7 @@
     <ul>
       <li>K-Mean Clustering  </li>
       <li>Gaussian Mixture Model Clustering</li>
-      <li>Spectral Clustering</li>
+      <li><a href="SpectralClustering/README.md">Spectral Clustering</a></li>
     </ul>
     <li>Example from unsupervised methods:</li>
     <ul>
