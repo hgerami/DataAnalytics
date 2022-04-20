@@ -8,7 +8,7 @@
     </ul>
     <li>Example from unsupervised methods:</li>
     <ul>
-      <li>Linear & Logistic Regression</li>
+      <li><a href="Linear_and_Logisitic_Regression/README.md">Linear & Logistic Regression</a></li>
       <li>Decision Tree and Random Forrest</li>
       <li>Graident Boost</li>
     </ul>
