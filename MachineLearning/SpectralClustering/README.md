@@ -7,6 +7,6 @@
   <li> Step 5: run kmeans algorithm on the k eigenvecotrs by treating each row as a new data point <li> </ul>
   
   <p><a href="SpectralClustering.ipynb"> Examples on Spectral Clustering </a></p>
-  <p><b>Refernce: ISyE 6740 Course Material, Yao Xie</b></P>
+  <p><b>Reference: ISyE 6740 Course Material, Yao Xie</b></P>
   
   
