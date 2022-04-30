@@ -8,9 +8,9 @@
   
   <p> Here I elaborate on couple of Data Sciense projects that I contributed to, a few from the university program, and the rest from work or my personal intrests:</p>
   
-    <ul>
-    <li> <a href="/Accomplished_Projects/README.md">A few of my accomplished projects </a></li>
-    <li><a href="/MachineLearning/README.md">Examples of Machine Learning Methods (codes included)</a></li>
+  <ul>
+    <li> <a href="Accomplished_Projects/README.md">A few of my accomplished projects </a></li>
+    <li><a href="MachineLearning/README.md">Examples of Machine Learning Methods (codes included)</a></li>
     <li>Data Visualization with d3/JavaScript (to be shared soon) </li>
     <li>SQL Codes Examples (to be shared soon)</li>
   </ul>
