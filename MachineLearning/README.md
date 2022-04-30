@@ -2,7 +2,7 @@
   <ul>
     <li> <a href="KMean Method/README.md">Examples from unsupervised methods: </a></li>
     <ul>
-      <li>K-Mean Clustering  </li>
+      <li><a href="">K-Mean Clustering </a></li>
       <li>Gaussian Mixture Model Clustering</li>
       <li><a href="SpectralClustering/README.md">Spectral Clustering</a></li>
     </ul>
