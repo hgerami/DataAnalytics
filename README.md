@@ -1,4 +1,3 @@
-# DataAnalytics
 <h2> Pivoting to Data Science: </h2>
   <p>From time to time I used Data Analytical methods through my routine work as a Geoscientist, 
   and I decided to step in this realm in a more rigorous fashion. I enrolled myself in my 2nd master 
