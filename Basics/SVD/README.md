@@ -4,3 +4,5 @@
   <li>For a Matrix M :</li> <br> <img src="SVD_6740.jpg" alt="SVD">
 <h3>SVD Example in python</h3>
   <p>In this example SVD is used for image compression and then restoration: <br> <a href="SVD_Examle_Python.ipynb">SVD Example</a></p>
+<br><br><br><br><br><br>
+  <b> Reference: Adopted from ISYE 6040 & CSE 6740 Georgia Tech Courses
