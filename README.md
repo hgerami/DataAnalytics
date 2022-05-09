@@ -14,7 +14,7 @@
     <li>SQL Codes Examples (to be shared soon)</li>
   <li> Basics: </li>
   <ul>
-    <li>Singular Value Decomposition (SVD)</li> 
+    <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li> 
 
     
   </ul></ul>
