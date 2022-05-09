@@ -12,4 +12,9 @@
     <li><a href="MachineLearning/README.md">Examples of Machine Learning Methods (codes included)</a></li>
     <li>Data Visualization with d3/JavaScript (to be shared soon) </li>
     <li>SQL Codes Examples (to be shared soon)</li>
-  </ul>
+  <li> Basics: </li>
+  <ul>
+    <li>Singular Value Decomposition (SVD)</li> 
+
+    
+  </ul></ul>
