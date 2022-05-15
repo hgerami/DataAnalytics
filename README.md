@@ -23,6 +23,6 @@
   
   <h3>Data Analytics for Trading & Finance</h3>
   <ul>
-    <li><a>Stocks Performance Evaluation (SVD)</a></li>   
+    <li><a href='Stocks_Performance_Evaluation/README.md'>Stocks Performance Evaluation</a></li>   
   </ul>
   
