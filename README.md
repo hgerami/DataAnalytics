@@ -18,7 +18,11 @@
     <li>SQL Codes Examples (to be shared soon)</li>
   <li> Basics: </li>
   <ul>
-    <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li> 
-
-    
+    <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li>   
   </ul></ul>
+  
+  <h3>Data Analytics for Trading & Finance</h3>
+  <ul>
+    <li><a>Stocks Performance Evaluation (SVD)</a></li>   
+  </ul>
+  
