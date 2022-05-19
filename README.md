@@ -1,6 +1,6 @@
 <h2> Pivoting to Data Science: </h2>
 <h3>Background</h3>
-  <p>From time to time I had used Data Analytical methods throughout my work as a Geoscientist, 
+  <p>From time to time I had used Data Analytical methods throughout my earlier job as a Geoscientist, 
   and I decided to step in this realm in a more rigorous fashion. I enrolled myself in my 2nd master 
   program, Data Analytics degree from Georgia Tech, in January 2020. I forced myself to learn Python, 
   R, JavaScript/d3, Linear Algebra and Statistics to do well for the whole program. I managed to complete the whole 
