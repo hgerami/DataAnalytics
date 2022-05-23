@@ -12,23 +12,29 @@
     <li><a href='Stocks_Performance_Evaluation/README.md'>Stocks Performance Evaluation</a></li>
     <li><a href='Technical_Indicators/README.md'>Technical Indicators for Trading</a></li>
   </ul>
-  
-<h3>Knowledge Sharing</h3>  
-<ul>
-    <li><a href="MachineLearning/README.md">Examples of Machine Learning Methods (codes included)</a></li>
-    <li>Data Visualization with d3/JavaScript (to be shared soon) </li>
-    <li>SQL Codes Examples (to be shared soon)</li>
-  <li> Basics: </li>
-  <ul>
-    <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li>   
-  </ul></ul>
-  
-
-  
-<h3>Accomplished Projects</h3>
+ 
+ <h3>Accomplished Projects</h3>
   <p> Here I elaborate on couple of Data Sciense projects that I contributed to, a few from the university program, and the rest from work or my personal intrests:</p>
   
   <ul>
     <li> <a href="Accomplished_Projects/README.md">A few of my accomplished projects </a></li></ul>
+  
+<h3>Machine Learning Methods</h3>  
+<ul>
+
+  <li> Basics: </li>
+  <ul>
+    <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li>   
+  </ul>
+  <li><a href="MachineLearning/README.md">Examples of Machine Learning Methods (codes included)</a></li>
+</ul>
+  
+<h3> Data Visualization: </h3>
+<ul>
+  <li>Data Visualization with d3/JavaScript (to be shared soon) </li></ul>
+  
+
+  
+
 
   
