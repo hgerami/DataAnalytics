@@ -1,4 +1,4 @@
-<h2>My journey in Data Science, Machine Learning projects:<h2>
+<h2>My journey in Data Science, Examples on Machine Learning methods:<h2>
   <ul>
     <li> <a href="KMean Method/README.md">Examples from unsupervised methods: </a></li>
     <ul>
