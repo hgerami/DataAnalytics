@@ -7,5 +7,3 @@
 <li><a href='technical_indicators.ipynb#momentum'>Momentum (a Momentum Indicator)</a></li>
 <li><a href='technical_indicators.ipynb#rsi'>Relative Strength (a Momentum Indicator)</a></li>
 <li><a href='technical_indicators.ipynb#fi'>Force Index (a Volume Indicator)</a></li></ul>
-
-<h3>Required libraries for this notebook:</h3>
