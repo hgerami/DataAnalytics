@@ -24,6 +24,6 @@
   <h3>Data Analytics for Trading & Finance</h3>
   <ul>
     <li><a href='Stocks_Performance_Evaluation/README.md'>Stocks Performance Evaluation</a></li>
-    <li><a href='Stocks_Performance_Evaluation/technical_indicators.ipynb'>Technical Indicators for Trading</a></li>
+    <li><a href='Technical_Indicators/README.md'>Technical Indicators for Trading</a></li>
   </ul>
   
