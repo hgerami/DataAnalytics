@@ -26,7 +26,7 @@
   <ul>
     <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li>   
   </ul>
-  <li><a href="MachineLearning/README.md">Examples of Machine Learning Methods (with Python & R)</a></li>
+  <li><a href="MachineLearning/README.md">Real-Life Examples of Machine Learning (with Python & R)</a></li>
 </ul>
   
 <h3> Data Visualization: </h3>
