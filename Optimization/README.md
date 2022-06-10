@@ -20,7 +20,7 @@
     <li> Constraints: US army they require that the daily intake of nutrient j is between lower and upper limit
       <ul><li>sumof(aij * xi) >= mj for each nutrient j</li><li>sumof(aij * xi) <= Mj for each nutrient j</li></ul>
       <ul><li>obvious constraint: xi >= 0  that means it is impossible to eat negative amounts of food</li></ul></li>
-    <li> Objective Function:</li>
+    <li> Objective Function: minimize sumof(ci * xi) </li>
    
   </ul></p>
 <br><br><br><br><br><br>
