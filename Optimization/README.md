@@ -14,5 +14,14 @@
     <li> mj = minimum daily intake of each nutrient j</li>
     <li> ci = cost per-unit of food i</li>
   </ul></p>
+    <p> How do we fit all of this into our variables, constraints, objective function template?
+  <ul>
+    <li> Variables (decisions): xi = amount of food i in daily diet </li>
+    <li> Constraints: US army they require that the daily intake of nutrient j is between lower and upper limit
+      <ul><li>sumof(aij * xi) >= mj for each nutrient j</li><li>sumof(aij * xi) <= Mj for each nutrient j</li></ul>
+      <ul><li>obvious constraint: xi >= 0  that means it is impossible to eat negative amounts of food</li></ul></li>
+    <li> Objective Function:</li>
+   
+  </ul></p>
 <br><br><br><br><br><br>
   <b> Reference: Adopted from ISYE 6501, Introduction to Analytical Modleing Georgia Tech Courses
