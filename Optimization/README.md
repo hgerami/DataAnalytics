@@ -3,7 +3,8 @@
 <h4>Elements of Optimization Models: </h4>
 <ul>
   <li>Variables: <p>Decisions that the optimization solver will pick the best value for</p> </li> 
-  <li>Constraints: <p>restrictions on those decisions that we make</p> <p>restrictions on the values of the variables</p></li> 
+  <li>Constraints: <p>restrictions on those decisions that we make and the values of the variables</p></li>
+  <li>Objecetive Function: <p>Measure of the quality of our optimization solution (the quality of a set of values for our variables which we are trying to maximize or minimize)</p></li> 
 <h3>SVD Example in python</h3>
   <p>In this example SVD is used for image compression and then restoration: <br> <a href="SVD_Examle_Python.ipynb">SVD Example</a></p>
 <br><br><br><br><br><br>
