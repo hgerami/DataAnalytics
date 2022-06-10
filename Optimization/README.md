@@ -23,6 +23,6 @@
     <li> Objective Function: minimize sumof(ci * xi) </li>
    
   </ul></p>
-  <br> <a href="SVD_Examle_Python.ipynb">SVD Example</a>
+  <br> <a href="US_Army_Diet_Optimization_Example.ipynb">Linear Optimization Example with Python</a>
 <br><br><br><br><br><br>
   <b> Reference: Adopted from ISYE 6501, Introduction to Analytical Modleing Georgia Tech Courses
