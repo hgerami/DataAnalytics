@@ -25,7 +25,7 @@
   <li> Basics: </li>
   <ul>
     <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li>
-    <li><a href="Optimization/README.md>Optimization</a></li> 
+    <li><a href="Optimization/README.md">Optimization</a></li> 
   </ul>
   <li><a href="MachineLearning/README.md">Real-Life Examples of Machine Learning (with Python & R)</a></li>
 </ul>
