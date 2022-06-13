@@ -37,4 +37,7 @@ PuLP is a Python linear programming API for defining problems and invoking exter
 <br><br><br>
   <b> Reference: Adopted from ISYE 6501, Introduction to Analytical Modleing Georgia Tech Courses</b><br>
 <h3>Optimization (Non-linear) Example in python</h3>
-  <p>In this example the allocation of a financial portofilio is optimized for any set of given stocks and time frame, That means the optimized will find how much of a portfolio’s funds should be allocated to each stock to optimize its performance. While a portfolio can be optimized for many different metrics, in this example the optimizer maximize the Sharpe Ratio. The optimizer function will return several portfolio statistics: stock allocations (allocs), cumulative return (cr), average daily return (adr), standard deviation of daily returns (sddr), and Sharpe ratio (sr). </p>
+  <p>In this example the allocation of a financial portofilio is optimized for any set of given stocks and time frame, That means the optimized will find how much of a portfolio’s funds should be allocated to each stock to optimize its performance. While a portfolio can be optimized for many different metrics, in this example the optimizer maximize the Sharpe Ratio. The optimizer function will return several portfolio statistics: stock allocations, cumulative return , average daily return, standard deviation of daily returns, and Sharpe ratio. </p>
+    <br> <a href="Scipy_Optimization_Example.ipynb">Non-Linear Optimization Example with Python</a>
+<br><br><br>
+  <b> Reference: Adopted from CS 7646, MAchine Learning for Trading</b><br>
