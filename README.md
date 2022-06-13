@@ -23,9 +23,10 @@
 <ul>
 
 
-  <li><a href="MachineLearning/README.md">Real-Life Examples of Machine Learning (with Python & R)</a></li>
+  <li><a href="MachineLearning/README.md">Real-Life Examples of Machine Learning (with Python & R)</a></li></ul>
 
-  
+<h3>Data Analytical Methods</h3>  
+<ul> 
   <li><a href="Optimization/README.md">Linear and Non-Linear Optimization Examples with Python</a></li> 
   <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li>
 </ul>
