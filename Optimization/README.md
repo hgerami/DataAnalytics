@@ -5,6 +5,16 @@
   <li>Variables: <p>Decisions that the optimization solver will pick the best value for</p> </li> 
   <li>Constraints: <p>Restrictions on those decisions that we make and the values of the variables</p></li>
   <li>Objecetive Function: <p>Measure of the quality of our optimization solution (the quality of a set of values for our variables which we are trying to maximize or minimize)</p></li> 
+<h4>Linear and Non-Linear Optimizations: </h4>
+<p>
+Linear programming is a method to achieve the best outcome in a mathematical model whose requirements are represented by linear relationships whereas nonlinear programming is a process of solving an optimization problem where the constraints or the objective functions are nonlinear. 
+
+Non-linear programming (NLP) is the process of solving an optimization problem where some of the constraints or the objective function are nonlinear
+
+SciPy is a general-purpose package for scientific computing with Python.
+PuLP is a Python linear programming API for defining problems and invoking external solvers.
+</p>
+  
 <h3>Optimization (linear) Example in python</h3>
   <p>The Diet Optimzation: U.S. Army sought to find optimal diets for soldiers that could meet nutrition requirements while minimizing costs.  This analysis explores the nutrition and cost associated with 64 different foods to determine the optimal diet.</p>
   <p>
@@ -26,3 +36,4 @@
   <br> <a href="US_Army_Diet_Optimization_Example.ipynb">Linear Optimization Example with Python</a>
 <br><br><br><br><br><br>
   <b> Reference: Adopted from ISYE 6501, Introduction to Analytical Modleing Georgia Tech Courses
+<h3>Optimization (Non-linear) Example in python</h3>
