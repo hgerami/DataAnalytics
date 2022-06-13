@@ -4,7 +4,7 @@
 <ul>
   <li>Variables: <p>Decisions that the optimization solver will pick the best value for</p> </li> 
   <li>Constraints: <p>Restrictions on those decisions that we make and the values of the variables</p></li>
-  <li>Objecetive Function: <p>Measure of the quality of our optimization solution (the quality of a set of values for our variables which we are trying to maximize or minimize)</p></li> 
+  <li>Objecetive Function: <p>Measure of the quality of our optimization solution (the quality of a set of values for our variables which we are trying to maximize or minimize)</p></li></ul> 
 <h4>Linear and Non-Linear Optimizations: </h4>
 <p>
 Linear programming is a method to achieve the best outcome in a mathematical model whose requirements are represented by linear relationships whereas nonlinear programming is a process of solving an optimization problem where the constraints or the objective functions are nonlinear. 
