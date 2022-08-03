@@ -24,7 +24,7 @@
 
 
   <li><a href="MachineLearning/README.md">Real-Life Examples of Machine Learning (with Python & R)</a></li>
-  <li><a href="ScikitLearn/README.md">Real-Life Examples with Scikit-Learn</a></li>
+  <li><a href="ScikitLearn/README.md">Machine Learning Examples with Scikit-Learn</a></li>
   
   </ul>
 
