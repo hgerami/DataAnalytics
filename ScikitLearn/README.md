@@ -8,7 +8,9 @@ predict diabetes in the Pima Indian tribe, The dataset is provided as pima-india
   <ul>
     <li><a href='https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html'>Linear Regression</a></li>
     <li><a href='https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html'>Random Forest</a>
-      <p>in addition to traing the classifier , and check the accuracy of that for the test and tratin sets, I have demostrated the feature importance and GridSerach CV fucntion in Scikit Learn library</p></li>
+      <p>In addition to traing the classifier , and check the accuracy of that for the test and tratin sets, I have demostrated the feature importance and GridSerach CV fucntion in Scikit Learn library</p></li>
+    <li><a href='https://scikit-learn.org/stable/modules/svm.html'>Support Vector Machine</a></li>
+    <li><a href='https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html'>Principal Component Analysis</a></li>
   </ul>
  
 
