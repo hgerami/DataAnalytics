@@ -23,7 +23,10 @@
 <ul>
 
 
-  <li><a href="MachineLearning/README.md">Real-Life Examples of Machine Learning (with Python & R)</a></li></ul>
+  <li><a href="MachineLearning/README.md">Real-Life Examples of Machine Learning (with Python & R)</a></li>
+  <li><a href="ScikitLearn/README.md">Real-Life Examples with Scikit-Learn</a></li>
+  
+  </ul>
 
 <h3>Data Analytical Methods</h3>  
 <ul> 
