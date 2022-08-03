@@ -22,7 +22,7 @@ predict diabetes in the Pima Indian tribe, The dataset is provided as pima-india
 <h3>References:</h3>
   <ol>
     <li> Georgia Tech CSE 6242: Data and Visual Analytics Course</li>
-    <li><a href='https://scikit-learn.org/stable/'>scikit-learn Python library</a></li>
+    <li><a href='https://scikit-learn.org/stable/'>scikit-learn python library</a></li>
   </ol>
   
 
