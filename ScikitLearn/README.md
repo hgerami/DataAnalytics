@@ -17,6 +17,6 @@ predict diabetes in the Pima Indian tribe, The dataset is provided as pima-india
     </li>
   </ul>
  
-
+<br> <a href='Scikit_learn_examples.ipynb'>Scikit Learn Examples <a>
   
 
