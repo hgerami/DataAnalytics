@@ -16,7 +16,12 @@ predict diabetes in the Pima Indian tribe, The dataset is provided as pima-india
     <p>Performing Principal Component Analysis based dimensionality reduction is a common task in many data analysis tasks, and it involves projecting the data to a lower-dimensional space using Singular Value Decomposition.</p>
     </li>
   </ul>
-<br> 
+ 
 <h3><a href='Scikit_learn_examples.ipynb'>Scikit Learn Examples <a></h3>
+<br><br><br>
+<h3>References:</h3>
+  <ol>
+    <li> Georgia Tech CSE 6242: Data and Visual Analytics Course</li>
+  </ol>
   
 
