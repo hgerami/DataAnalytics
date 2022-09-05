@@ -34,9 +34,7 @@
   <li><a href="Basics/SVD/README.md">Singular Value Decomposition (SVD)</a></li>
 </ul>
   
-<h3> Data Visualization: </h3>
-<ul>
-  <li>Data Visualization with d3/JavaScript (to be shared soon) </li></ul>
+
   
 
   
