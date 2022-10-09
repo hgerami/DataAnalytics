@@ -13,7 +13,7 @@
 </p>
 <p><h3>Entropy:</h3>
 Entropy is an information theory metric that measures the impurity or uncertainty in a group of observations. It determines how a decision tree chooses to split data. The image below gives a better description of the purity of a set:
-<kbd><img src="entropy_1.jpg" align="center" width="50%" ></kbd>
+<kbd><img  align="center"src="entropy_1.jpg" width="50%" /></kbd>
 
 </p>
 
