@@ -38,3 +38,7 @@ We can use information gain to determine how good the splitting of nodes in a de
 <div align="center">
 <img  align="center" src="Information_Gain.jpg" width="75%"  />
 </div>
+<h3>Example of Information Gain Calculation:</h3>
+<div align="center">
+<img  align="center" src="Information_Gain_calculation.jpg" width="75%"  />
+</div>
