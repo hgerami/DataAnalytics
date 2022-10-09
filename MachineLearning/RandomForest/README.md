@@ -35,3 +35,6 @@ We can define information gain as a measure of how much information a feature pr
 </li>
 <li>
 We can use information gain to determine how good the splitting of nodes in a decision tree and it can help us determine the quality of splitting.</li>
+<div align="center">
+<img  align="center" src="Information_Gain.jpg" width="75%"  />
+</div>
