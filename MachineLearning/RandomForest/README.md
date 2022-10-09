@@ -35,6 +35,9 @@ We can define information gain as a measure of how much information a feature pr
 </li>
 <li>
 We can use information gain to determine how good the splitting of nodes in a decision tree and it can help us determine the quality of splitting.</li>
+<li>
+Entropy is an information theory metric that measures the impurity or uncertainty in a group of observations. It determines how a decision tree chooses to split data. The image below gives a better description of the purity of a set.
+</li>
 <div align="center">
 <img  align="center" src="Information_Gain.jpg" width="75%"  />
 </div>
@@ -42,3 +45,5 @@ We can use information gain to determine how good the splitting of nodes in a de
 <div align="center">
 <img  align="center" src="Information_Gain_calculation.jpg" width="75%"  />
 </div>
+
+<br> <a href='RandomForest_DecisionTrees_with_Entropy_and_InformationGain.ipynb'>Decsion Tree and Random Forest  <a> </p></li></ul>
