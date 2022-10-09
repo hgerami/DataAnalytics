@@ -27,3 +27,11 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 <div align="center">
 <img  align="center" src="conditional_entropy.jpg" width="75%"  />
 </div>
+
+<h3>Information Gain</h3>
+<ul>
+<li>
+We can define information gain as a measure of how much information a feature provides about a class. Information gain helps to determine the order of attributes in the nodes of a decision tree.
+</li>
+<li>
+We can use information gain to determine how good the splitting of nodes in a decision tree and it can help us determine the quality of splitting.</li>
