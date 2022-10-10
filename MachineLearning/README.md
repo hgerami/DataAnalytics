@@ -9,7 +9,7 @@
     <li>Supervised learning problem examples:</li>
     <ul>
       <li><a href="Linear_and_Logisitic_Regression/README.md">Linear & Logistic Regression</a></li>
-      <li>Decision Tree and Random Forrest</li>
+      <li><a href="RandomForest/README.md">Decision Tree and Random Forrest</a></li>
       <li>Graident Boost</li>
     </ul>
 
