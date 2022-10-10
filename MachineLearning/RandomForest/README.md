@@ -28,6 +28,12 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 <img  align="center" src="conditional_entropy.jpg" width="75%"  />
 </div>
 
+<h3> Reference: </h3>
+<ol>
+<li> <a href="https://lucylabs.gatech.edu/ml4t/summer2020/project-3/">CS 7646: Machine Learning for Trading </a> </li>
+<li> Udemy Course, Mastering data visualization in D3.js </li>
+</ol>
+
 
 
 <h3>Information Gain</h3>
