@@ -59,5 +59,5 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 </ul>
 </p>
 <p>
-The depth found in the learn function is the depth of the current node/tree. You may want a check within the learn function that looks at the current depth and returns if the depth is greater than or equal to the max depth specified, otherwise it is possible that you continually split on nodes and create a messy tree. The max_depth parameter should be used as a stopping condition for whenyour tree should stop growing. Your decision tree will be instantiated with a depth of 0 (input to the learn() function in the jupyter notebook). To comply with this, make sure you implement the decision tree such that the root node starts at a depth of 0 and is built with increasing depth.
+The depth found in the learn function is the depth of the current node/tree. The max_depth parameter should be used as a stopping condition for whenyour tree should stop growing. The decision tree is instantiated with a depth of 0 (input to the learn() function in the jupyter notebook) and the root node starts at a depth of 0 and is built with increasing depth.
 </p>
