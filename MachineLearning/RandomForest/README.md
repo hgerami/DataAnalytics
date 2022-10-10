@@ -28,6 +28,8 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 <img  align="center" src="conditional_entropy.jpg" width="75%"  />
 </div>
 
+
+
 <h3>Information Gain</h3>
 <ul>
 <li>
@@ -47,3 +49,15 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 </div>
 
 <br> <a href='RandomForest_DecisionTrees_with_Entropy_and_InformationGain.ipynb'>Decsion Tree and Random Forest  <a> </p></li></ul>
+
+<p>The following were addressed through the above attempt:
+<ul>
+<li>Which attributes to use when building a tree?</li>
+<li>How to determine the split point for an attribute?</li>
+<li>How many trees should the forest contain?</li>
+<li>When do you stop splitting leaf nodes?</li>
+</ul>
+</p>
+<p>
+The depth found in the learn function is the depth of the current node/tree. You may want a check within the learn function that looks at the current depth and returns if the depth is greater than or equal to the max depth specified, otherwise it is possible that you continually split on nodes and create a messy tree. The max_depth parameter should be used as a stopping condition for whenyour tree should stop growing. Your decision tree will be instantiated with a depth of 0 (input to the learn() function in the jupyter notebook). To comply with this, make sure you implement the decision tree such that the root node starts at a depth of 0 and is built with increasing depth.
+</p>
