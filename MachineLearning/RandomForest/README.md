@@ -28,13 +28,6 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 <img  align="center" src="conditional_entropy.jpg" width="75%"  />
 </div>
 
-<h3> Reference: </h3>
-<ol>
-<li> <a href="https://lucylabs.gatech.edu/ml4t/summer2020/project-3/">CS 7646: Machine Learning for Trading </a> </li>
-<li> Udemy Course, Mastering data visualization in D3.js </li>
-</ol>
-
-
 
 <h3>Information Gain</h3>
 <ul>
@@ -67,3 +60,9 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 <p>
 The depth found in the learn function is the depth of the current node/tree. The max_depth parameter should be used as a stopping condition for whenyour tree should stop growing. The decision tree is instantiated with a depth of 0 (input to the learn() function in the jupyter notebook) and the root node starts at a depth of 0 and is built with increasing depth.
 </p>
+
+<h3> Reference: </h3>
+<ol>
+<li> <a href="https://lucylabs.gatech.edu/ml4t/summer2020/project-3/">CS 7646: Machine Learning for Trading </a> </li>
+<li> Udemy Course, Mastering data visualization in D3.js </li>
+</ol>
