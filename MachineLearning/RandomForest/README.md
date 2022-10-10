@@ -48,7 +48,7 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 <img  align="center" src="Information_Gain_calculation.jpg" width="75%"  />
 </div>
 
-<br> <a href='RandomForest_DecisionTrees_with_Entropy_and_InformationGain.ipynb'>Decsion Tree and Random Forest  <a> </p></li></ul>
+<br> <a href='RandomForest_DecisionTrees_with_Entropy_and_InformationGain.ipynb'>Decsion Tree and Random Forest using Entropy and Information Gain (with Python)  <a> </p></li></ul>
 
 <p>The following were addressed through the above attempt:
 <ul>
